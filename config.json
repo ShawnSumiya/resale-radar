@@ -1,0 +1,10 @@
+{
+  "yahoo": {
+    "enabled": true,
+    "keywords": ["PlayStation 5"],
+    "min_price": 40000,
+    "max_price": 80000,
+    "interval": 60
+  }
+}
+
